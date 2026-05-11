@@ -49,7 +49,7 @@ export default function Layout({
                     <div style={styles.headerContent}>
                         <div style={styles.logoMark}>
                             <img
-                                src="/bsNinja.png"
+                                src="/bsNinjalogov1.png"
                                 alt="BrawlNinja logo"
                                 style={styles.logoImage}
                             />
@@ -168,6 +168,7 @@ export default function Layout({
                 <footer style={styles.footer}>
                     <p>
                         BrawlNinja is a fan-made tool for Brawl Stars players.
+                        Powered by <b>SpiderBrains</b>.
                         <br />
                         <a
                             href="https://developer.brawlstars.com"
